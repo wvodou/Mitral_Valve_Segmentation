@@ -7,5 +7,7 @@ This is a short project with the goal of performing segmentation of the Mitral V
 
 # Data
 Train and Test data can be acquired by running the following in the terminal: 
-```kaggle competitions download -c aml-project-task-3-year-2024```
+```
+kaggle competitions download -c aml-project-task-3-year-2024
+```
 
