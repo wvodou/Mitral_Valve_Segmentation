@@ -3,3 +3,5 @@ This is a short project with the goal of performing segmentation of the Mitral V
 Test_TUNet: contains main code of this project
 
 Train and Test from: kaggle competitions download -c aml-project-task-3-year-2024
+
+task3.py: helper module used in Test_TUNet
