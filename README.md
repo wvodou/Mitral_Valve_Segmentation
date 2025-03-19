@@ -1,7 +1,11 @@
+# Goal
 This is a short project with the goal of performing segmentation of the Mitral Valve on each frame of a set of echograms (videos).
 
-Test_TUNet: contains main code of this project
+# Main Files
+**Test_TUNet:** contains main code of this project\
+**task3.py:** helper module used in Test_TUNet
 
-Train and Test from: kaggle competitions download -c aml-project-task-3-year-2024
+# Data
+Train and Test data can be acquired by running the following in the terminal: 
+```kaggle competitions download -c aml-project-task-3-year-2024```
 
-task3.py: helper module used in Test_TUNet
